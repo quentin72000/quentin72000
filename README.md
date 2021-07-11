@@ -2,7 +2,7 @@
 - 👀 I’m interested in discord bot developement, minecraft server
 - 🌱 I’m currently learning java, javascript
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: quentin72000#3364
+- 📫 How to reach me: DISCORD: quentin72000#3364
 - 🇫🇷 I'm a french developer
 
 <!---
