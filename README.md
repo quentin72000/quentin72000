@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning javascript (nodejs) with the library "discord.js"
 - 📫 How to reach me: Discord: [quentin72000#3364](https://discord.com/users/611938209366016000) and Mail: [quentin72000@yahoo.fr](mailto:quentin72000@yahoo.fr)
 - 🇫🇷 I'm a french young developer
-- I'm 14 years old
+- I'm 14 years old (the 23 september)
 - My principal project: Luticorp (stoped), LutiBot (stoped) and BotStatusChecker (in devlopement)
