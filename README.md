@@ -10,5 +10,5 @@
 ## ⚡ Stats
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=quentin72000&theme=tokyonight&show_icons=true&include_all_commits=true" alt="quentin72000's Github stats">
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=quentin72000&theme=tokyonight&show_icons=true&include_all_commits=true" alt="quentin72000's Github stats">
 </p>
