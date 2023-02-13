@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @quentin72000
 - 👀 I’m interested in discord bot developement and Node.JS
 - 🌱 I’m currently learning javascript (nodejs) with the library "discord.js"
-- 📫 How to reach me: Discord: [quentin72000#3364](https://discord.com/users/611938209366016000) and Mail: [quentin72000@yahoo.fr](mailto:quentin72000@yahoo.fr)
+- 📫 How to reach me: Discord: [quentin72000#3364](https://discord.com/users/611938209366016000) and Mail: [contact@quentin72000.cf](mailto:contact@quentin72000.cf)
 - 🇫🇷 I'm a french young developer
 - 🎂 23 september
 - My principal project: BotStatusChecker and JokeList
