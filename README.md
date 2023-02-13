@@ -5,7 +5,7 @@
 - 📫 How to reach me: Discord: [quentin72000#3364](https://discord.com/users/611938209366016000) and Mail: [contact@quentin72000.cf](mailto:contact@quentin72000.cf)
 - 🇫🇷 I'm a french young developer
 - 🎂 23 september
-- My principal project: BotStatusChecker and JokeList
+- My principal project: PronoteBot and SchoolManuelReaderToPDF
 
 ## ⚡ Stats
 <p align="center">
