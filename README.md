@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I’m @quentin72000
 - 👀 I’m interested in **discord bot** development and **Node.JS** as well as **Spigot plugin** development
-- 🌱 I’m currently learning Node.JS with the library "**discord.js**"
+- 🌱 I’m currently learning Node.JS with the library "**discord.js**" and developing Spigot Plugin for a Mini-Game server.
 - 📫 If you want to contact me: **Discord**: [quentin72000](https://discord.com/users/611938209366016000) and **Mail**: [contact@quentin72000.cf](mailto:contact@quentin72000.cf)
 - 🇫🇷 I'm a **French young developer**
 - 🎂 23 September
