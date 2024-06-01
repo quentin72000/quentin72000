@@ -1,11 +1,11 @@
-## About Me
-- 👋 Hi, I’m @quentin72000
-- 👀 I’m interested in **discord bot** development and **Node.JS** as well as **Spigot plugin** development
-- 🌱 I’m currently learning Node.JS with the library "**discord.js**" and developing Spigot Plugin for a Mini-Game server.
-- 📫 If you want to contact me: **Discord**: [quentin72000](https://discord.com/users/611938209366016000) and **Mail**: [contact@quentin72000.cf](mailto:contact@quentin72000.cf)
-- 🇫🇷 I'm a **French young developer**
-- 🎂 23 September
-- My principal project is **PronoteBot** and some private projects.
+## About me
+- 👋 Hi there ! I'm @quentin72000
+- 👀 I'm interested in developing **discord bots** with **Node.JS**. and before that **Spigot plugins**.
+- 🌱 I'm exploring the **Web3 world** and learning about it every day 🚀
+- 📫 You can contact me through **Discord** ([quentin72000](https://discord.com/users/611938209366016000)) and via **mail** at [quentin72000@yahoo.com](mailto:quentin72000@yahoo.com)
+- 🇫🇷 I'm a **Junior French Developer**.
+- 🎂 My birthday is the 23rd of September
+- Next project coming soon 👀
 
 ## ⚡ Stats
 <p align="center">
